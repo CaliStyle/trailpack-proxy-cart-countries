@@ -74,12 +74,12 @@ describe('CountryService', () => {
     assert.equal(tester.name, 'Indiana')
     done()
   })
-  it('should undefined for a mismatched country identifier', function (done) {
+  it('should be undefined for a mismatched country identifier', function (done) {
     const tester = CountryService.states('UX')
     assert(typeof tester == 'undefined')
     done()
   })
-  it('should undefined for a mismatched country identifier (other methods)', function (done) {
+  it('should be undefined for a mismatched country identifier (other methods)', function (done) {
     const methods = [
       'states',
       'provinces',
