@@ -35,8 +35,8 @@ describe('CountryService', () => {
     }
     Object.keys(searches).forEach(function (search) {
       const tester = CountryService.info(searches[search])
-      console.log('term:', search, searches[search])
-      console.log('result:', tester)
+      // console.log('term:', search, searches[search])
+      // console.log('result:', tester)
       assert(typeof tester == 'object')
       assert.equal(tester.name, searches[search])
     })
@@ -118,6 +118,8 @@ describe('CountryService', () => {
     assert(typeof tester == 'object')
     assert.equal(tester.code, 'IN')
     assert.equal(tester.name, 'Indiana')
+    assert(typeof tester.country == 'object')
+    assert.equal(tester.country.name, 'United States')
     done()
   })
   it('should be undefined for a mismatched country identifier', function (done) {

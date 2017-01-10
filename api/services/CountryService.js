@@ -75,7 +75,9 @@ module.exports = class CountryService extends Service {
         _.forEach(state.altSpellings, addToStateIndex)
       })
       stateKey = findStateIndex[normalizeName(type)]
-      return statesList[stateKey]
+      const state = statesList[stateKey]
+      state.country = _.omit(countryList[key],'states')
+      return state
     }
     else {
       return _.find(countryList, function (thisCountry) {
