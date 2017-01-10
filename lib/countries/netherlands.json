@@ -9,6 +9,7 @@
     "alpha2": "NL",
     "alpha3": "NLD"
   },
+  "tax": 0.00,
   "states": [
     {
       "code": "DR",

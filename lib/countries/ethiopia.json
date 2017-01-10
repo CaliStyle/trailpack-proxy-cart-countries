@@ -10,6 +10,7 @@
     "alpha2": "ET",
     "alpha3": "ETH"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Addis Ababa",

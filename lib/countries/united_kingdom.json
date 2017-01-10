@@ -9,6 +9,7 @@
     "alpha2": "GB",
     "alpha3": "GBR"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Avon",

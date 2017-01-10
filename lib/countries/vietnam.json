@@ -9,6 +9,7 @@
     "alpha2": "VN",
     "alpha3": "VNM"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Hà Nội",

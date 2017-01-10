@@ -11,6 +11,7 @@
     "alpha2": "FI",
     "alpha3": "FIN"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Aland",

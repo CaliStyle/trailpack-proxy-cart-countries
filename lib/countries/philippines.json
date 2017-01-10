@@ -9,6 +9,7 @@
     "alpha2": "PH",
     "alpha3": "PHL"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Abra",

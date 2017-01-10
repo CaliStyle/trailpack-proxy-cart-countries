@@ -9,6 +9,7 @@
     "alpha2": "SE",
     "alpha3": "SWE"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Blekinge",

@@ -9,6 +9,7 @@
     "alpha2": "PE",
     "alpha3": "PER"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Chachapoyas",

@@ -10,6 +10,7 @@
     "alpha2": "PK",
     "alpha3": "PAK"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Azad Kashmir",

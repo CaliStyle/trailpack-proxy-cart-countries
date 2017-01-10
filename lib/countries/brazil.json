@@ -10,6 +10,7 @@
     "alpha2": "BR",
     "alpha3": "BRA"
   },
+  "tax": 0.00,
   "states": [
     {
       "code": "AC",

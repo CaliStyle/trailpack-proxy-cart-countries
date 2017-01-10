@@ -10,6 +10,7 @@
     "alpha2": "MX",
     "alpha3": "MEX"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Aguascalientes",

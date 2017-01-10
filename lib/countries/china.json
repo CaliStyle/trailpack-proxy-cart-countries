@@ -13,6 +13,7 @@
     "alpha2": "CN",
     "alpha3": "CHN"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "重庆",

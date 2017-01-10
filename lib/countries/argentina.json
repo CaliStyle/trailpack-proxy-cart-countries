@@ -9,6 +9,7 @@
     "alpha2": "AR",
     "alpha3": "ARG"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Ciudad Autónoma de Buenos Aires",

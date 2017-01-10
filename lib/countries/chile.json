@@ -9,6 +9,7 @@
     "alpha2": "CL",
     "alpha3": "CHL"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Arica",

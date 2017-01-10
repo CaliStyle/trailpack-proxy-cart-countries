@@ -9,6 +9,7 @@
     "alpha2": "JP",
     "alpha3": "JPN"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "愛知県",

@@ -10,6 +10,7 @@
     "alpha2": "FR",
     "alpha3": "FRA"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Alsace",

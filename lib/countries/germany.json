@@ -9,6 +9,7 @@
     "alpha2": "DE",
     "alpha3": "DEU"
   },
+  "tax": 0.00,
   "states": [
     {
       "code": "BW",

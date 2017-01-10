@@ -10,6 +10,7 @@
     "alpha2": "TR",
     "alpha3": "TUR"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Adana",

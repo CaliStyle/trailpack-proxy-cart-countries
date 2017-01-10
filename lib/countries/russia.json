@@ -11,6 +11,7 @@
     "alpha2": "RU",
     "alpha3": "RUS"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Адыгея",

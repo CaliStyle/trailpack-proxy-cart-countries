@@ -9,291 +9,463 @@
     "alpha2": "US",
     "alpha3": "USA"
   },
+  "tax": 0.00,
   "states": [
     {
       "code": "AL",
       "name": "Alabama",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "AK",
       "name": "Alaska",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "AZ",
       "name": "Arizona",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "AR",
       "name": "Arkansas",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "CA",
       "name": "California",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "CO",
       "name": "Colorado",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "CT",
       "name": "Connecticut",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "DC",
       "name": "District of Columbia",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "DE",
       "name": "Delaware",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "FL",
       "name": "Florida",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "GA",
       "name": "Georgia",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "HI",
       "name": "Hawaii",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "ID",
       "name": "Idaho",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "IL",
       "name": "Illinois",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "IN",
       "name": "Indiana",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "IA",
       "name": "Iowa",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "KS",
       "name": "Kansas",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "KY",
       "name": "Kentucky",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "LA",
       "name": "Louisiana",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "ME",
       "name": "Maine",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MD",
       "name": "Maryland",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MA",
       "name": "Massachusetts",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MI",
       "name": "Michigan",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MN",
       "name": "Minnesota",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MS",
       "name": "Mississippi",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MO",
       "name": "Missouri",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MT",
       "name": "Montana",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "NE",
       "name": "Nebraska",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "NV",
       "name": "Nevada",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "NH",
       "name": "New Hampshire",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "NJ",
       "name": "New Jersey",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "NM",
       "name": "New Mexico",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "NY",
       "name": "New York",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "NC",
       "name": "North Carolina",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "ND",
       "name": "North Dakota",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "OH",
       "name": "Ohio",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "OK",
       "name": "Oklahoma",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "OR",
       "name": "Oregon",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "PA",
       "name": "Pennsylvania",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "RI",
       "name": "Rhode Island",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "SC",
       "name": "South Carolina",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "SD",
       "name": "South Dakota",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "TN",
       "name": "Tennessee",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "TX",
       "name": "Texas",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "UT",
       "name": "Utah",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "VT",
       "name": "Vermont",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "VA",
       "name": "Virginia",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "WA",
       "name": "Washington",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "WV",
       "name": "West Virginia",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "WI",
       "name": "Wisconsin",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "WY",
       "name": "Wyoming",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "AS",
       "name": "American Samoa",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "GU",
       "name": "Guam",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "MP",
       "name": "Northern Mariana Islands",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "PR",
       "name": "Puerto Rico",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "UM",
       "name": "United States Minor Outlying Islands",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     },
     {
       "code": "VI",
       "name": "Virgin Islands",
-      "country": "US"
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "",
+      "tax_type": ""
     }
   ]
 }

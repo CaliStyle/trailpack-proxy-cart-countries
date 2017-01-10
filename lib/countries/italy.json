@@ -9,6 +9,7 @@
     "alpha2": "IT",
     "alpha3": "ITA"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Abruzzo",

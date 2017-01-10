@@ -15,6 +15,7 @@
     "alpha2": "BE",
     "alpha3": "BEL"
   },
+  "tax": 0.00,
   "states": [
     {
       "code": "ANT",

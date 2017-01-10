@@ -7,6 +7,7 @@
     "alpha2": "AU",
     "alpha3": "AUS"
   },
+  "tax": 0.00,
   "states": [
     {
       "name": "Ashmore and Cartier Islands",
