@@ -1,3 +1,4 @@
+/* eslint no-console: [0] */
 'use strict'
 
 const Service = require('trails/service')
@@ -40,6 +41,10 @@ module.exports = class CountryService extends Service {
       key = findIndex[normalizeName(country)]
       return countryList[key]
     }
+    else if (type === 'states' || type === 'provinces') {
+      key = findIndex[normalizeName(country)]
+      return countryList[key].states
+    }
     else if (type === 'ISO3' || type === 'IS03') {
       return _.find(countryList, function (thiscountry) {
         return thiscountry.ISO.alpha3 === country
@@ -73,8 +78,8 @@ module.exports = class CountryService extends Service {
       return statesList[stateKey]
     }
     else {
-      return _.find(countryList, function (thiscountry) {
-        return thiscountry.ISO.alpha2 === country
+      return _.find(countryList, function (thisCountry) {
+        return thisCountry.ISO.alpha2 === country
       })
     }
   }
@@ -90,9 +95,21 @@ module.exports = class CountryService extends Service {
    *
    * @param country
    * @param type
+   * @returns {*}
+   */
+  info(country, type) {
+    const ret = this._returnCountry(country, type || 'name')
+    if (ret) {
+      return ret
+    }
+  }
+  /**
+   *
+   * @param country
+   * @param type
    */
   name(country, type) {
-    const ret = this._returnCountry(country, type)
+    const ret = this._returnCountry(country, type || 'name')
     if (ret) {
       return ret.name
     }
