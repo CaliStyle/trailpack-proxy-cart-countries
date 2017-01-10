@@ -10,6 +10,7 @@
     "alpha3": "USA"
   },
   "tax": 0.00,
+  "tax_name": "Federal Sales Tax",
   "states": [
     {
       "code": "AL",
