@@ -11,82 +11,82 @@
   },
   "states": [
     {
-      "abbreviation": "BW",
+      "code": "BW",
       "name": "Baden-Württemberg",
       "country": "DE"
     },
     {
-      "abbreviation": "BY",
+      "code": "BY",
       "name": "Bayern",
       "country": "DE"
     },
     {
-      "abbreviation": "BE",
+      "code": "BE",
       "name": "Berlin",
       "country": "DE"
     },
     {
-      "abbreviation": "BB",
+      "code": "BB",
       "name": "Brandenburg",
       "country": "DE"
     },
     {
-      "abbreviation": "HB",
+      "code": "HB",
       "name": "Bremen",
       "country": "DE"
     },
     {
-      "abbreviation": "HH",
+      "code": "HH",
       "name": "Hamburg",
       "country": "DE"
     },
     {
-      "abbreviation": "HE",
+      "code": "HE",
       "name": "Hessen",
       "country": "DE"
     },
     {
-      "abbreviation": "MV",
+      "code": "MV",
       "name": "Mecklenburg-Vorpommern",
       "country": "DE"
     },
     {
-      "abbreviation": "NI",
+      "code": "NI",
       "name": "Niedersachsen",
       "country": "DE"
     },
     {
-      "abbreviation": "NW",
+      "code": "NW",
       "name": "Nordrhein-Westfalen",
       "country": "DE"
     },
     {
-      "abbreviation": "RP",
+      "code": "RP",
       "name": "Rheinland-Pfalz",
       "country": "DE"
     },
     {
-      "abbreviation": "SL",
+      "code": "SL",
       "name": "Saarland",
       "country": "DE"
     },
     {
-      "abbreviation": "SN",
+      "code": "SN",
       "name": "Sachsen",
       "country": "DE"
     },
     {
-      "abbreviation": "ST",
+      "code": "ST",
       "name": "Sachsen-Anhalt",
       "country": "DE"
     },
     {
-      "abbreviation": "SH",
+      "code": "SH",
       "name": "Schleswig-Holstein",
       "country": "DE"
     },
     {
-      "abbreviation": "TH",
+      "code": "TH",
       "name": "Thüringen",
       "country": "DE"
     }

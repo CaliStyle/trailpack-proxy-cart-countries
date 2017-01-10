@@ -12,137 +12,137 @@
   },
   "states": [
     {
-      "abbreviation": "AC",
+      "code": "AC",
       "name": "Acre",
       "country": "BR"
     },
     {
-      "abbreviation": "AL",
+      "code": "AL",
       "name": "Alagoas",
       "country": "BR"
     },
     {
-      "abbreviation": "AP",
+      "code": "AP",
       "name": "Amapá",
       "country": "BR"
     },
     {
-      "abbreviation": "AM",
+      "code": "AM",
       "name": "Amazonas",
       "country": "BR"
     },
     {
-      "abbreviation": "BA",
+      "code": "BA",
       "name": "Bahia",
       "country": "BR"
     },
     {
-      "abbreviation": "CE",
+      "code": "CE",
       "name": "Ceará",
       "country": "BR"
     },
     {
-      "abbreviation": "DF",
+      "code": "DF",
       "name": "Distrito Federal",
       "country": "BR"
     },
     {
-      "abbreviation": "ES",
+      "code": "ES",
       "name": "Espírito Santo",
       "country": "BR"
     },
     {
-      "abbreviation": "GO",
+      "code": "GO",
       "name": "Goiás",
       "country": "BR"
     },
     {
-      "abbreviation": "MA",
+      "code": "MA",
       "name": "Maranhão",
       "country": "BR"
     },
     {
-      "abbreviation": "MT",
+      "code": "MT",
       "name": "Mato Grosso",
       "country": "BR"
     },
     {
-      "abbreviation": "MS",
+      "code": "MS",
       "name": "Mato Grosso do Sul",
       "country": "BR"
     },
     {
-      "abbreviation": "MG",
+      "code": "MG",
       "name": "Minas Gerais",
       "country": "BR"
     },
     {
-      "abbreviation": "PA",
+      "code": "PA",
       "name": "Pará",
       "country": "BR"
     },
     {
-      "abbreviation": "PB",
+      "code": "PB",
       "name": "Paraíba",
       "country": "BR"
     },
     {
-      "abbreviation": "PR",
+      "code": "PR",
       "name": "Paraná",
       "country": "BR"
     },
     {
-      "abbreviation": "PE",
+      "code": "PE",
       "name": "Pernambuco",
       "country": "BR"
     },
     {
-      "abbreviation": "PI",
+      "code": "PI",
       "name": "Piauí",
       "country": "BR"
     },
     {
-      "abbreviation": "RJ",
+      "code": "RJ",
       "name": "Rio de Janeiro",
       "country": "BR"
     },
     {
-      "abbreviation": "RN",
+      "code": "RN",
       "name": "Rio Grande do Norte",
       "country": "BR"
     },
     {
-      "abbreviation": "RS",
+      "code": "RS",
       "name": "Rio Grande do Sul",
       "country": "BR"
     },
     {
-      "abbreviation": "RO",
+      "code": "RO",
       "name": "Rondônia",
       "country": "BR"
     },
     {
-      "abbreviation": "RR",
+      "code": "RR",
       "name": "Roraima",
       "country": "BR"
     },
     {
-      "abbreviation": "SC",
+      "code": "SC",
       "name": "Santa Catarina",
       "country": "BR"
     },
     {
-      "abbreviation": "SP",
+      "code": "SP",
       "name": "São Paulo",
       "country": "BR"
     },
     {
-      "abbreviation": "SE",
+      "code": "SE",
       "name": "Sergipe",
       "country": "BR"
     },
     {
-      "abbreviation": "TO",
+      "code": "TO",
       "name": "Tocantins",
       "country": "BR"
     }

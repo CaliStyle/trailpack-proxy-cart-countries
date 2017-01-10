@@ -13,154 +13,154 @@
   "states": [
     {
       "name": "Alsace",
-      "abbreviation": "FR-A",
+      "code": "FR-A",
       "subdivision": "Metropolitan region",
       "native": "Alsace",
       "country": "FR"
     },
     {
       "name": "Aquitaine",
-      "abbreviation": "FR-B",
+      "code": "FR-B",
       "subdivision": "Metropolitan region",
       "native": "Aquitaine",
       "country": "FR"
     },
     {
       "name": "Auvergne",
-      "abbreviation": "FR-C",
+      "code": "FR-C",
       "subdivision": "Metropolitan region",
       "native": "Auvergne",
       "country": "FR"
     },
     {
       "name": "Brittany",
-      "abbreviation": "FR-E",
+      "code": "FR-E",
       "subdivision": "Metropolitan region",
       "native": "Bretagne",
       "country": "FR"
     },
     {
       "name": "Burgundy",
-      "abbreviation": "FR-D",
+      "code": "FR-D",
       "subdivision": "Metropolitan region",
       "native": "Bourgogne",
       "country": "FR"
     },
     {
       "name": "Centre-Val de Loire",
-      "abbreviation": "FR-F",
+      "code": "FR-F",
       "subdivision": "Metropolitan region",
       "native": "Centre",
       "country": "FR"
     },
     {
       "name": "Champagne-Ardenne",
-      "abbreviation": "FR-G",
+      "code": "FR-G",
       "subdivision": "Metropolitan region",
       "native": "Champagne-Ardenne",
       "country": "FR"
     },
     {
       "name": "Corsica",
-      "abbreviation": "FR-H",
+      "code": "FR-H",
       "subdivision": "Metropolitan region",
       "native": "Corse",
       "country": "FR"
     },
     {
       "name": "Franche-Comté",
-      "abbreviation": "FR-I",
+      "code": "FR-I",
       "subdivision": "Metropolitan region",
       "native": "Franche-Comté",
       "country": "FR"
     },
     {
       "name": "Languedoc-Roussillon",
-      "abbreviation": "FR-K",
+      "code": "FR-K",
       "subdivision": "Metropolitan region",
       "native": "Languedoc-Roussillon",
       "country": "FR"
     },
     {
       "name": "Limousin",
-      "abbreviation": "FR-L",
+      "code": "FR-L",
       "subdivision": "Metropolitan region",
       "native": "Limousin",
       "country": "FR"
     },
     {
       "name": "Lorraine",
-      "abbreviation": "FR-M",
+      "code": "FR-M",
       "subdivision": "Metropolitan region",
       "native": "Lorraine",
       "country": "FR"
     },
     {
       "name": "Lower Normandy",
-      "abbreviation": "FR-P",
+      "code": "FR-P",
       "subdivision": "Metropolitan region",
       "native": "Basse-Normandie",
       "country": "FR"
     },
     {
       "name": "Midi-Pyrénées",
-      "abbreviation": "FR-N",
+      "code": "FR-N",
       "subdivision": "Metropolitan region",
       "native": "Midi-Pyrénées",
       "country": "FR"
     },
     {
       "name": "Nord-Pas-de-Calais",
-      "abbreviation": "FR-O",
+      "code": "FR-O",
       "subdivision": "Metropolitan region",
       "native": "Nord-Pas-de-Calais",
       "country": "FR"
     },
     {
       "name": "Pays de la Loire",
-      "abbreviation": "FR-R",
+      "code": "FR-R",
       "subdivision": "Metropolitan region",
       "native": "Pays de la Loire",
       "country": "FR"
     },
     {
       "name": "Picardy",
-      "abbreviation": "FR-S",
+      "code": "FR-S",
       "subdivision": "Metropolitan region",
       "native": "Picardie",
       "country": "FR"
     },
     {
       "name": "Poitou-Charentes",
-      "abbreviation": "FR-T",
+      "code": "FR-T",
       "subdivision": "Metropolitan region",
       "native": "Poitou-Charentes",
       "country": "FR"
     },
     {
       "name": "Provence-Alpes-Côte d'Azur",
-      "abbreviation": "FR-U",
+      "code": "FR-U",
       "subdivision": "Metropolitan region",
       "native": "Provence-Alpes-Côte d'Azur",
       "country": "FR"
     },
     {
       "name": "Rhône-Alpes",
-      "abbreviation": "FR-V",
+      "code": "FR-V",
       "subdivision": "Metropolitan region",
       "native": "Rhône-Alpes",
       "country": "FR"
     },
     {
       "name": "Upper Normandy",
-      "abbreviation": "FR-Q",
+      "code": "FR-Q",
       "subdivision": "Metropolitan region",
       "native": "Haute-Normandie",
       "country": "FR"
     },
     {
       "name": "Île-de-France",
-      "abbreviation": "FR-J",
+      "code": "FR-J",
       "subdivision": "Metropolitan region",
       "native": "Île-de-France",
       "country": "FR"

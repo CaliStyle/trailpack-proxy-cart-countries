@@ -63,14 +63,14 @@ describe('CountryService', () => {
   it('should get state object for Indiana United States', function (done) {
     const tester = CountryService.state('USA', 'Indiana')
     assert(typeof tester == 'object')
-    assert.equal(tester.abbreviation, 'IN')
+    assert.equal(tester.code, 'IN')
     assert.equal(tester.name, 'Indiana')
     done()
   })
   it('should get state object for IN US', function (done) {
     const tester = CountryService.state('US', 'IN')
     assert(typeof tester == 'object')
-    assert.equal(tester.abbreviation, 'IN')
+    assert.equal(tester.code, 'IN')
     assert.equal(tester.name, 'Indiana')
     done()
   })

@@ -12,187 +12,187 @@
   },
   "states": [
     {
-      "abbreviation": "AB",
+      "code": "AB",
       "name": "Abia",
       "country": "NG"
     },
     {
-      "abbreviation": "FC",
+      "code": "FC",
       "name": "Abuja",
       "country": "NG"
     },
     {
-      "abbreviation": "AD",
+      "code": "AD",
       "name": "Adamawa",
       "country": "NG"
     },
     {
-      "abbreviation": "AK",
+      "code": "AK",
       "name": "AkwaIbom",
       "country": "NG"
     },
     {
-      "abbreviation": "AN",
+      "code": "AN",
       "name": "Anambra",
       "country": "NG"
     },
     {
-      "abbreviation": "BA",
+      "code": "BA",
       "name": "Bauchi",
       "country": "NG"
     },
     {
-      "abbreviation": "BY",
+      "code": "BY",
       "name": "Bayelsa",
       "country": "NG"
     },
     {
-      "abbreviation": "BE",
+      "code": "BE",
       "name": "Benue",
       "country": "NG"
     },
     {
-      "abbreviation": "BO",
+      "code": "BO",
       "name": "Borno",
       "country": "NG"
     },
     {
-      "abbreviation": "CR",
+      "code": "CR",
       "name": "CrossRiver",
       "country": "NG"
     },
     {
-      "abbreviation": "DE",
+      "code": "DE",
       "name": "Delta",
       "country": "NG"
     },
     {
-      "abbreviation": "EB",
+      "code": "EB",
       "name": "Ebonyi",
       "country": "NG"
     },
     {
-      "abbreviation": "ED",
+      "code": "ED",
       "name": "Edo",
       "country": "NG"
     },
     {
-      "abbreviation": "EK",
+      "code": "EK",
       "name": "Ekiti",
       "country": "NG"
     },
     {
-      "abbreviation": "EN",
+      "code": "EN",
       "name": "Enugu",
       "country": "NG"
     },
     {
-      "abbreviation": "GO",
+      "code": "GO",
       "name": "Gombe",
       "country": "NG"
     },
     {
-      "abbreviation": "IM",
+      "code": "IM",
       "name": "Imo",
       "country": "NG"
     },
     {
-      "abbreviation": "JI",
+      "code": "JI",
       "name": "Jigawa",
       "country": "NG"
     },
     {
-      "abbreviation": "KD",
+      "code": "KD",
       "name": "Kaduna",
       "country": "NG"
     },
     {
-      "abbreviation": "KN",
+      "code": "KN",
       "name": "Kano",
       "country": "NG"
     },
     {
-      "abbreviation": "KT",
+      "code": "KT",
       "name": "Katsina",
       "country": "NG"
     },
     {
-      "abbreviation": "KE",
+      "code": "KE",
       "name": "Kebbi",
       "country": "NG"
     },
     {
-      "abbreviation": "KO",
+      "code": "KO",
       "name": "Kogi",
       "country": "NG"
     },
     {
-      "abbreviation": "KW",
+      "code": "KW",
       "name": "Kwara",
       "country": "NG"
     },
     {
-      "abbreviation": "LA",
+      "code": "LA",
       "name": "Lagos",
       "country": "NG"
     },
     {
-      "abbreviation": "NA",
+      "code": "NA",
       "name": "Nasarawa",
       "country": "NG"
     },
     {
-      "abbreviation": "NI",
+      "code": "NI",
       "name": "Niger",
       "country": "NG"
     },
     {
-      "abbreviation": "OG",
+      "code": "OG",
       "name": "Ogun",
       "country": "NG"
     },
     {
-      "abbreviation": "ON",
+      "code": "ON",
       "name": "Ondo",
       "country": "NG"
     },
     {
-      "abbreviation": "OS",
+      "code": "OS",
       "name": "Osun",
       "country": "NG"
     },
     {
-      "abbreviation": "OY",
+      "code": "OY",
       "name": "Oyo",
       "country": "NG"
     },
     {
-      "abbreviation": "PL",
+      "code": "PL",
       "name": "Plateau",
       "country": "NG"
     },
     {
-      "abbreviation": "RI",
+      "code": "RI",
       "name": "Rivers",
       "country": "NG"
     },
     {
-      "abbreviation": "SO",
+      "code": "SO",
       "name": "Sokoto",
       "country": "NG"
     },
     {
-      "abbreviation": "TA",
+      "code": "TA",
       "name": "Taraba",
       "country": "NG"
     },
     {
-      "abbreviation": "YO",
+      "code": "YO",
       "name": "Yobe",
       "country": "NG"
     },
     {
-      "abbreviation": "ZA",
+      "code": "ZA",
       "name": "Zamfara",
       "country": "NG"
     }

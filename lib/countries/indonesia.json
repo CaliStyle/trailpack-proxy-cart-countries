@@ -11,172 +11,172 @@
   },
   "states": [
     {
-      "abbreviation": "ID-AC",
+      "code": "ID-AC",
       "name": "Special Region of Aceh",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-BA",
+      "code": "ID-BA",
       "name": "Bali",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-BB",
+      "code": "ID-BB",
       "name": "Bangka–Belitung Islands",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-BT",
+      "code": "ID-BT",
       "name": "Banten",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-BE",
+      "code": "ID-BE",
       "name": "Bengkulu",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-JT",
+      "code": "ID-JT",
       "name": "Central Java",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-KT",
+      "code": "ID-KT",
       "name": "Central Kalimantan",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-ST",
+      "code": "ID-ST",
       "name": "Central Sulawesi",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-JI",
+      "code": "ID-JI",
       "name": "East Java",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-KI",
+      "code": "ID-KI",
       "name": "East Kalimantan",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-NT",
+      "code": "ID-NT",
       "name": "East Nusa Tenggara",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-GO",
+      "code": "ID-GO",
       "name": "Gorontalo",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-JK",
+      "code": "ID-JK",
       "name": "Jakarta Special Capital Region",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-JA",
+      "code": "ID-JA",
       "name": "Jambi",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-LA",
+      "code": "ID-LA",
       "name": "Lampung",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-MA",
+      "code": "ID-MA",
       "name": "Maluku",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-KU",
+      "code": "ID-KU",
       "name": "North Kalimantan",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-MU",
+      "code": "ID-MU",
       "name": "North Maluku",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-SA",
+      "code": "ID-SA",
       "name": "North Sulawesi",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-SU",
+      "code": "ID-SU",
       "name": "North Sumatra",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-PA",
+      "code": "ID-PA",
       "name": "Special Region of Papua",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-RI",
+      "code": "ID-RI",
       "name": "Riau",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-KR",
+      "code": "ID-KR",
       "name": "Riau Islands",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-SG",
+      "code": "ID-SG",
       "name": "Southeast Sulawesi",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-KS",
+      "code": "ID-KS",
       "name": "South Kalimantan",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-SN",
+      "code": "ID-SN",
       "name": "South Sulawesi",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-SS",
+      "code": "ID-SS",
       "name": "South Sumatra",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-JB",
+      "code": "ID-JB",
       "name": "West Java",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-KB",
+      "code": "ID-KB",
       "name": "West Kalimantan",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-NB",
+      "code": "ID-NB",
       "name": "West Nusa Tenggara",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-PB",
+      "code": "ID-PB",
       "name": "Special Region of West Papua",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-SR",
+      "code": "ID-SR",
       "name": "West Sulawesi",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-SB",
+      "code": "ID-SB",
       "name": "West Sumatra",
       "country": "ID"
     },
     {
-      "abbreviation": "ID-YO",
+      "code": "ID-YO",
       "name": "Special Region of Yogyakarta",
       "country": "ID"
     }

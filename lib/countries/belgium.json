@@ -17,12 +17,12 @@
   },
   "states": [
     {
-      "abbreviation": "ANT",
+      "code": "ANT",
       "name": "Antwerpen",
       "country": "BE"
     },
     {
-      "abbreviation": "HAI",
+      "code": "HAI",
       "name": "Henegouwen",
       "country": "BE",
       "alt": [
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "abbreviation": "LIE",
+      "code": "LIE",
       "name": "Luik",
       "country": "BE",
       "alt": [
@@ -38,37 +38,37 @@
       ]
     },
     {
-      "abbreviation": "LIM",
+      "code": "LIM",
       "name": "Limburg",
       "country": "BE"
     },
     {
-      "abbreviation": "LUX",
+      "code": "LUX",
       "name": "Luxemburg",
       "country": "BE"
     },
     {
-      "abbreviation": "NAM",
+      "code": "NAM",
       "name": "Namen",
       "country": "BE"
     },
     {
-      "abbreviation": "OVL",
+      "code": "OVL",
       "name": "Oost-Vlaanderen",
       "country": "BE"
     },
     {
-      "abbreviation": "VBR",
+      "code": "VBR",
       "name": "Vlaams-Brabant",
       "country": "BE"
     },
     {
-      "abbreviation": "WBR",
+      "code": "WBR",
       "name": "Waals-Brabant",
       "country": "BE"
     },
     {
-      "abbreviation": "WVL",
+      "code": "WVL",
       "name": "West-Vlaanderen",
       "country": "BE"
     }

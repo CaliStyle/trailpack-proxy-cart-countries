@@ -21,7 +21,7 @@ module.exports = class CountryService extends Service {
     const normalizeName = (name) =>{
       return _.deburr(name)
         .toLowerCase()
-        // .replace(/\-/g, ' ')
+        .replace(/\-/g, ' ')
         .replace(/(\.|\b(the|and|of|de|des|du|di|del|y|da|und|die) \b)/g, '')
         .trim()
     }
@@ -66,7 +66,7 @@ module.exports = class CountryService extends Service {
           }
         }
         addToStateIndex(state.name)
-        addToStateIndex(state.abbreviation)
+        addToStateIndex(state.code)
         _.forEach(state.altSpellings, addToStateIndex)
       })
       stateKey = findStateIndex[normalizeName(type)]

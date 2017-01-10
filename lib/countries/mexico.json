@@ -13,7 +13,7 @@
   "states": [
     {
       "name": "Aguascalientes",
-      "abbreviation": "AG",
+      "code": "AG",
       "altSpellings": [
         "AGS"
       ],
@@ -21,7 +21,7 @@
     },
     {
       "name": "Baja California",
-      "abbreviation": "BC",
+      "code": "BC",
       "altSpellings": [
         "BCN"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "name": "Baja California Sur",
-      "abbreviation": "BS",
+      "code": "BS",
       "altSpellings": [
         "BCS"
       ],
@@ -37,7 +37,7 @@
     },
     {
       "name": "Campeche",
-      "abbreviation": "CM",
+      "code": "CM",
       "altSpellings": [
         "Camp",
         "CAM"
@@ -46,7 +46,7 @@
     },
     {
       "name": "Chiapas",
-      "abbreviation": "CS",
+      "code": "CS",
       "altSpellings": [
         "Chis",
         "CHP"
@@ -55,7 +55,7 @@
     },
     {
       "name": "Chihuahua",
-      "abbreviation": "CH",
+      "code": "CH",
       "altSpellings": [
         "Chih",
         "CHH"
@@ -64,7 +64,7 @@
     },
     {
       "name": "Coahuila",
-      "abbreviation": "MX",
+      "code": "MX",
       "altSpellings": [
         "Coah",
         "COA"
@@ -73,7 +73,7 @@
     },
     {
       "name": "Colima",
-      "abbreviation": "CL",
+      "code": "CL",
       "altSpellings": [
         "COL"
       ],
@@ -81,7 +81,7 @@
     },
     {
       "name": "Federal District",
-      "abbreviation": "DF",
+      "code": "DF",
       "altSpellings": [
         "DIF"
       ],
@@ -89,7 +89,7 @@
     },
     {
       "name": "Durango",
-      "abbreviation": "DG",
+      "code": "DG",
       "altSpellings": [
         "Dgo",
         "DUR"
@@ -98,7 +98,7 @@
     },
     {
       "name": "Guanajuato",
-      "abbreviation": "GT",
+      "code": "GT",
       "altSpellings": [
         "Gto",
         "GUA"
@@ -107,7 +107,7 @@
     },
     {
       "name": "Guerrero",
-      "abbreviation": "GR",
+      "code": "GR",
       "altSpellings": [
         "Gro",
         "GRO"
@@ -116,7 +116,7 @@
     },
     {
       "name": "Hidalgo",
-      "abbreviation": "HG",
+      "code": "HG",
       "altSpellings": [
         "Hgo",
         "HID"
@@ -125,7 +125,7 @@
     },
     {
       "name": "Jalisco",
-      "abbreviation": "JA",
+      "code": "JA",
       "altSpellings": [
         "Jal",
         "JAL"
@@ -134,7 +134,7 @@
     },
     {
       "name": "Mexico",
-      "abbreviation": "ME",
+      "code": "ME",
       "altSpellings": [
         "Edomex",
         "MEX"
@@ -143,7 +143,7 @@
     },
     {
       "name": "Michoacán",
-      "abbreviation": "MI",
+      "code": "MI",
       "altSpellings": [
         "Mich",
         "MIC"
@@ -152,7 +152,7 @@
     },
     {
       "name": "Morelos",
-      "abbreviation": "MO",
+      "code": "MO",
       "altSpellings": [
         "Mor",
         "MOR"
@@ -161,7 +161,7 @@
     },
     {
       "name": "Nayarit",
-      "abbreviation": "NA",
+      "code": "NA",
       "altSpellings": [
         "Nay",
         "NAY"
@@ -170,7 +170,7 @@
     },
     {
       "name": "Nuevo León",
-      "abbreviation": "NL",
+      "code": "NL",
       "altSpellings": [
         "NLE"
       ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "Oaxaca",
-      "abbreviation": "OA",
+      "code": "OA",
       "altSpellings": [
         "Oax",
         "OAX"
@@ -187,7 +187,7 @@
     },
     {
       "name": "Puebla",
-      "abbreviation": "PU",
+      "code": "PU",
       "altSpellings": [
         "Pue",
         "PUE"
@@ -196,7 +196,7 @@
     },
     {
       "name": "Querétaro",
-      "abbreviation": "QE",
+      "code": "QE",
       "altSpellings": [
         "Qro",
         "QUE"
@@ -205,7 +205,7 @@
     },
     {
       "name": "Quintana Roo",
-      "abbreviation": "QR",
+      "code": "QR",
       "altSpellings": [
         "Q Roo",
         "ROO"
@@ -214,7 +214,7 @@
     },
     {
       "name": "San Luis Potosí",
-      "abbreviation": "SL",
+      "code": "SL",
       "altSpellings": [
         "SLP"
       ],
@@ -222,7 +222,7 @@
     },
     {
       "name": "Sinaloa",
-      "abbreviation": "SI",
+      "code": "SI",
       "altSpellings": [
         "SIN"
       ],
@@ -230,7 +230,7 @@
     },
     {
       "name": "Sonora",
-      "abbreviation": "SO",
+      "code": "SO",
       "altSpellings": [
         "SON"
       ],
@@ -238,7 +238,7 @@
     },
     {
       "name": "Tabasco",
-      "abbreviation": "TB",
+      "code": "TB",
       "altSpellings": [
         "TAB"
       ],
@@ -246,7 +246,7 @@
     },
     {
       "name": "Tamaulipas",
-      "abbreviation": "TM",
+      "code": "TM",
       "altSpellings": [
         "Tamps",
         "TAM"
@@ -255,7 +255,7 @@
     },
     {
       "name": "Tlaxcala",
-      "abbreviation": "TL",
+      "code": "TL",
       "altSpellings": [
         "Tlax",
         "TLA"
@@ -264,7 +264,7 @@
     },
     {
       "name": "Veracruz",
-      "abbreviation": "VE",
+      "code": "VE",
       "altSpellings": [
         "VER"
       ],
@@ -272,7 +272,7 @@
     },
     {
       "name": "Yucatán",
-      "abbreviation": "YU",
+      "code": "YU",
       "altSpellings": [
         "YUC"
       ],
@@ -280,7 +280,7 @@
     },
     {
       "name": "Zacatecas",
-      "abbreviation": "ZA",
+      "code": "ZA",
       "altSpellings": [
         "ZAC"
       ],

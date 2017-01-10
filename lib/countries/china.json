@@ -16,172 +16,172 @@
   "states": [
     {
       "name": "重庆",
-      "abbreviation": "渝",
+      "code": "渝",
       "country": "CN"
     },
     {
       "name": "黑龙江",
-      "abbreviation": "黑",
+      "code": "黑",
       "country": "CN"
     },
     {
       "name": "吉林",
-      "abbreviation": "吉",
+      "code": "吉",
       "country": "CN"
     },
     {
       "name": "海南",
-      "abbreviation": "琼",
+      "code": "琼",
       "country": "CN"
     },
     {
       "name": "北京",
-      "abbreviation": "京",
+      "code": "京",
       "country": "CN"
     },
     {
       "name": "辽宁",
-      "abbreviation": "辽",
+      "code": "辽",
       "country": "CN"
     },
     {
       "name": "内蒙古",
-      "abbreviation": "蒙",
+      "code": "蒙",
       "country": "CN"
     },
     {
       "name": "西藏",
-      "abbreviation": "藏",
+      "code": "藏",
       "country": "CN"
     },
     {
       "name": "青海",
-      "abbreviation": "青",
+      "code": "青",
       "country": "CN"
     },
     {
       "name": "宁夏",
-      "abbreviation": "宁",
+      "code": "宁",
       "country": "CN"
     },
     {
       "name": "新疆",
-      "abbreviation": "新",
+      "code": "新",
       "country": "CN"
     },
     {
       "name": "甘肃",
-      "abbreviation": "甘",
+      "code": "甘",
       "country": "CN"
     },
     {
       "name": "河北",
-      "abbreviation": "冀",
+      "code": "冀",
       "country": "CN"
     },
     {
       "name": "河南",
-      "abbreviation": "豫",
+      "code": "豫",
       "country": "CN"
     },
     {
       "name": "湖北",
-      "abbreviation": "鄂",
+      "code": "鄂",
       "country": "CN"
     },
     {
       "name": "湖南",
-      "abbreviation": "湘",
+      "code": "湘",
       "country": "CN"
     },
     {
       "name": "山东",
-      "abbreviation": "鲁",
+      "code": "鲁",
       "country": "CN"
     },
     {
       "name": "江苏",
-      "abbreviation": "苏",
+      "code": "苏",
       "country": "CN"
     },
     {
       "name": "安徽",
-      "abbreviation": "皖",
+      "code": "皖",
       "country": "CN"
     },
     {
       "name": "山西",
-      "abbreviation": "晋",
+      "code": "晋",
       "country": "CN"
     },
     {
       "name": "陕西",
-      "abbreviation": "陕",
+      "code": "陕",
       "country": "CN"
     },
     {
       "name": "四川",
-      "abbreviation": "川",
+      "code": "川",
       "country": "CN"
     },
     {
       "name": "云南",
-      "abbreviation": "滇",
+      "code": "滇",
       "country": "CN"
     },
     {
       "name": "贵州",
-      "abbreviation": "黔",
+      "code": "黔",
       "country": "CN"
     },
     {
       "name": "浙江",
-      "abbreviation": "浙",
+      "code": "浙",
       "country": "CN"
     },
     {
       "name": "福建",
-      "abbreviation": "闽",
+      "code": "闽",
       "country": "CN"
     },
     {
       "name": "广西",
-      "abbreviation": "桂",
+      "code": "桂",
       "country": "CN"
     },
     {
       "name": "上海",
-      "abbreviation": "沪",
+      "code": "沪",
       "country": "CN"
     },
     {
       "name": "天津",
-      "abbreviation": "津",
+      "code": "津",
       "country": "CN"
     },
     {
       "name": "香港",
-      "abbreviation": "港",
+      "code": "港",
       "country": "CN"
     },
     {
       "name": "澳门",
-      "abbreviation": "澳",
+      "code": "澳",
       "country": "CN"
     },
     {
       "name": "台湾",
-      "abbreviation": "台",
+      "code": "台",
       "country": "CN"
     },
     {
       "name": "江西",
-      "abbreviation": "赣",
+      "code": "赣",
       "country": "CN"
     },
     {
       "name": "广东",
-      "abbreviation": "粤",
+      "code": "粤",
       "country": "CN"
     }
   ]

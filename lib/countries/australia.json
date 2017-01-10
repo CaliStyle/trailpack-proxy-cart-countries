@@ -17,17 +17,17 @@
       "country": "AU"
     },
     {
-      "abbreviation": "ACT",
+      "code": "ACT",
       "name": "Australian Capital Territory",
       "country": "AU"
     },
     {
-      "abbreviation": "CX",
+      "code": "CX",
       "name": "Christmas Island",
       "country": "AU"
     },
     {
-      "abbreviation": "CC",
+      "code": "CC",
       "name": "Cocos Islands",
       "altSpellings": [
         "Keeling Islands"
@@ -39,52 +39,52 @@
       "country": "AU"
     },
     {
-      "abbreviation": "HM",
+      "code": "HM",
       "name": "Heard Island and McDonald Islands",
       "country": "AU"
     },
     {
-      "abbreviation": "JBT",
+      "code": "JBT",
       "name": "Jervis Bay Territory",
       "country": "AU"
     },
     {
-      "abbreviation": "NSW",
+      "code": "NSW",
       "name": "New South Wales",
       "country": "AU"
     },
     {
-      "abbreviation": "NF",
+      "code": "NF",
       "name": "Norfolk Island",
       "country": "AU"
     },
     {
-      "abbreviation": "NT",
+      "code": "NT",
       "name": "Northern Territory",
       "country": "AU"
     },
     {
-      "abbreviation": "QLD",
+      "code": "QLD",
       "name": "Queensland",
       "country": "AU"
     },
     {
-      "abbreviation": "SA",
+      "code": "SA",
       "name": "South Australia",
       "country": "AU"
     },
     {
-      "abbreviation": "TAS",
+      "code": "TAS",
       "name": "Tasmania",
       "country": "AU"
     },
     {
-      "abbreviation": "VIC",
+      "code": "VIC",
       "name": "Victoria",
       "country": "AU"
     },
     {
-      "abbreviation": "WA",
+      "code": "WA",
       "name": "Western Australia",
       "country": "AU"
     }

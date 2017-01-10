@@ -12,47 +12,47 @@
   },
   "states": [
     {
-      "abbreviation": "B",
+      "code": "B",
       "name": "Burgenland",
       "country": "AT"
     },
     {
-      "abbreviation": "K",
+      "code": "K",
       "name": "Kärnten",
       "country": "AT"
     },
     {
-      "abbreviation": "NÖ",
+      "code": "NÖ",
       "name": "Niederösterreich",
       "country": "AT"
     },
     {
-      "abbreviation": "OÖ",
+      "code": "OÖ",
       "name": "Oberösterreich",
       "country": "AT"
     },
     {
-      "abbreviation": "S",
+      "code": "S",
       "name": "Salzburg",
       "country": "AT"
     },
     {
-      "abbreviation": "ST",
+      "code": "ST",
       "name": "Steiermark",
       "country": "AT"
     },
     {
-      "abbreviation": "T",
+      "code": "T",
       "name": "Tirol",
       "country": "AT"
     },
     {
-      "abbreviation": "V",
+      "code": "V",
       "name": "Vorarlberg",
       "country": "AT"
     },
     {
-      "abbreviation": "W",
+      "code": "W",
       "name": "Wien",
       "country": "AT"
     }

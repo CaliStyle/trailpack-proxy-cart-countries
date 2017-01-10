@@ -11,92 +11,92 @@
   },
   "states": [
     {
-      "abbreviation": "DR",
+      "code": "DR",
       "name": "Drenthe",
       "country": "NL"
     },
     {
-      "abbreviation": "FL",
+      "code": "FL",
       "name": "Flevoland",
       "country": "NL"
     },
     {
-      "abbreviation": "FR",
+      "code": "FR",
       "name": "Friesland",
       "country": "NL"
     },
     {
-      "abbreviation": "GD",
+      "code": "GD",
       "name": "Gelderland",
       "country": "NL"
     },
     {
-      "abbreviation": "GR",
+      "code": "GR",
       "name": "Groningen",
       "country": "NL"
     },
     {
-      "abbreviation": "LB",
+      "code": "LB",
       "name": "Limburg",
       "country": "NL"
     },
     {
-      "abbreviation": "NB",
+      "code": "NB",
       "name": "Noord-Brabant",
       "country": "NL"
     },
     {
-      "abbreviation": "NH",
+      "code": "NH",
       "name": "Noord-Holland",
       "country": "NL"
     },
     {
-      "abbreviation": "OV",
+      "code": "OV",
       "name": "Overijssel",
       "country": "NL"
     },
     {
-      "abbreviation": "UT",
+      "code": "UT",
       "name": "Utrecht",
       "country": "NL"
     },
     {
-      "abbreviation": "ZH",
+      "code": "ZH",
       "name": "Zuid-Holland",
       "country": "NL"
     },
     {
-      "abbreviation": "ZL",
+      "code": "ZL",
       "name": "Zeeland",
       "country": "NL"
     },
     {
-      "abbreviation": "AW",
+      "code": "AW",
       "name": "Aruba",
       "country": "NL"
     },
     {
-      "abbreviation": "BQ",
+      "code": "BQ",
       "name": "Bonaire",
       "country": "NL"
     },
     {
-      "abbreviation": "BQ2",
+      "code": "BQ2",
       "name": "Saba",
       "country": "NL"
     },
     {
-      "abbreviation": "BQ3",
+      "code": "BQ3",
       "name": "Sint Eustatius",
       "country": "NL"
     },
     {
-      "abbreviation": "CW",
+      "code": "CW",
       "name": "Curaçao",
       "country": "NL"
     },
     {
-      "abbreviation": "SX",
+      "code": "SX",
       "name": "Sint Maarten",
       "country": "NL"
     }
