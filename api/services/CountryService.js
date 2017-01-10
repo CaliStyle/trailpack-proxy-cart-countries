@@ -40,12 +40,12 @@ module.exports = class CountryService extends Service {
       key = findIndex[normalizeName(country)]
       return countryList[key]
     }
-    else if (type === 'ISO3') {
+    else if (type === 'ISO3' || type === 'IS03') {
       return _.find(countryList, function (thiscountry) {
         return thiscountry.ISO.alpha3 === country
       })
     }
-    else if (type === 'IS02') {
+    else if (type === 'ISO2' || type === 'IS02') {
       return _.find(countryList, function (thiscountry) {
         return thiscountry.ISO.alpha2 === country
       })
@@ -79,33 +79,77 @@ module.exports = class CountryService extends Service {
     }
   }
 
+  /**
+   *
+   */
   all() {
     return countryList
   }
+
+  /**
+   *
+   * @param country
+   * @param type
+   */
   name(country, type) {
     const ret = this._returnCountry(country, type)
     if (ret) {
       return ret.name
     }
   }
+
+  /**
+   *
+   * @param country
+   * @param type
+   * @returns {CountryService.states}
+   */
   states(country, type) {
     const ret = this._returnCountry(country, type)
     if (ret) {
       return ret.states
     }
   }
+
+  /**
+   *
+   * @param country
+   * @param type
+   * @returns {CountryService.states}
+   */
   provinces(country, type) {
     return this.states(country, type)
   }
+
+  /**
+   *
+   * @param country
+   * @param type
+   * @returns {CountryService.altSpellings}
+   */
   altSpellings(country, type) {
     const ret = this._returnCountry(country, type)
     if (ret) {
       return ret.altSpellings
     }
   }
+
+  /**
+   *
+   * @param country
+   * @param type
+   * @returns {*}
+   */
   state(country, type) {
     return this._returnCountry(country, type)
   }
+
+  /**
+   *
+   * @param country
+   * @param type
+   * @returns {*}
+   */
   province(country, type) {
     return this._returnCountry(country, type)
   }

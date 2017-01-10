@@ -27,6 +27,36 @@ describe('CountryService', () => {
     })
     done()
   })
+  it('should get all available info using IS02 matching', (done) => {
+    const searches = {
+      'CA': 'Canada',
+      'US': 'United States',
+      'GB': 'United Kingdom'
+    }
+    Object.keys(searches).forEach(function (search) {
+      const tester = CountryService.name(search, 'IS02')
+      // console.log('term:', search, searches[search])
+      // console.log('result:', tester)
+      assert(typeof tester == 'string')
+      assert.equal(tester, searches[search])
+    })
+    done()
+  })
+  it('should get all available info using IS03 matching', (done) => {
+    const searches = {
+      'CAN': 'Canada',
+      'USA': 'United States',
+      'GBR': 'United Kingdom'
+    }
+    Object.keys(searches).forEach(function (search) {
+      const tester = CountryService.name(search, 'IS03')
+      // console.log('term:', search, searches[search])
+      // console.log('result:', tester)
+      assert(typeof tester == 'string')
+      assert.equal(tester, searches[search])
+    })
+    done()
+  })
   it('should get list of states for United States', (done) => {
     const tester = CountryService.states('US')
     assert(typeof tester == 'object') // Array
