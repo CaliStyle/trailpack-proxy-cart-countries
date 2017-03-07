@@ -3,7 +3,7 @@
 
 const Service = require('trails/service')
 const _ = require('lodash')
-const countryList = require('../../lib/countries')()
+const countryList = require('../../lib/countries')
 
 /**
  * @module CountryService

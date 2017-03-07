@@ -1,6 +1,6 @@
 {
   "name": "trailpack-proxy-cart-countries",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Proxy Cart Countries (Shipping Zone and Taxes)",
   "homepage": "https://cali-style.com",
   "author": {
@@ -19,16 +19,15 @@
     "trailjs"
   ],
   "dependencies": {
-    "trailpack": "v2-latest",
-    "bulk-require": "^1.0.0"
+    "trailpack": "^2.0.0"
   },
   "devDependencies": {
     "lodash": "^4.11.1",
-    "trails": "latest",
-    "eslint": "^3.0.0",
-    "eslint-config-trails": "^2.0.0",
+    "trails": "^2.0.0",
+    "eslint": "^3.17.1",
+    "eslint-config-trails": "^2.0.8",
     "mocha": "^2.4.5",
-    "smokesignals": "v2-latest"
+    "smokesignals": "^2.0.0"
   },
   "scripts": {
     "test": "eslint . && mocha"
