@@ -1,1 +1,1 @@
-exports.CountryService = require('./CountryService')
+exports.ProxyCountryService = require('./ProxyCountryService')

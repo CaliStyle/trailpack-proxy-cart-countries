@@ -5,12 +5,12 @@ const assert = require('assert')
 describe('CountryService', () => {
   let CountryService
   before((done) => {
-    CountryService = global.app.services.CountryService
+    CountryService = global.app.services.ProxyCountryService
     done()
   })
 
   it('should exist', () => {
-    assert(global.app.api.services['CountryService'])
+    assert(global.app.api.services['ProxyCountryService'])
   })
   it('should get name using approximate string matching', (done) => {
     const searches = {
