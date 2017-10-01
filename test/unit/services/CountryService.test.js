@@ -218,6 +218,13 @@ describe('CountryService', () => {
     assert.equal(tester, 'China')
     done()
   })
+  // Colombia
+  it('should get name for Colombia', function (done) {
+    const tester = CountryService.name('CO')
+    assert(typeof tester === 'string')
+    assert.equal(tester, 'Colombia')
+    done()
+  })
   // Cuba
   it('should get name for Cuba', function (done) {
     const tester = CountryService.name('CU')
